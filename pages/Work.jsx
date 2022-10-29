@@ -42,7 +42,7 @@ const Work = () => {
           Some of our accomplishment
         </h1>
       </div>
-      <div className="w-full  h-full mt-24 my-own-custom-container ml-1 mb-24 ">
+      <div className="w-full   h-full mt-24 my-own-custom-container ml-3 md:ml-0 lg:ml-0 mb-24 ">
         <Carousel
           arrows={false}
           renderButtonGroupOutside={true}
