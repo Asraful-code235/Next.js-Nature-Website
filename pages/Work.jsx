@@ -42,7 +42,7 @@ const Work = () => {
           Some of our accomplishment
         </h1>
       </div>
-      <div className="w-[90%] lg:w-full mx-auto   h-full mt-24  flex items-center justify-center md:ml-0 lg:ml-0 mb-24">
+      <div className="w-[90%] sm:w-full md:w-full lg:w-full mx-auto  h-full mt-24 my-own-custom-container  md:ml-0 lg:ml-0 mb-24 ">
         <Carousel
           arrows={false}
           renderButtonGroupOutside={true}
